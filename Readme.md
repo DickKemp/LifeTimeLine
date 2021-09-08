@@ -1,5 +1,5 @@
 # LifeTimeLine
 
-the TimeLine of a LifeTime
+TimeLine of a LifeTime
 
 
